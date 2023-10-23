@@ -24,3 +24,5 @@ www.jec.ac.jp <br>
 |あ|い|う|え|お|
 |かか|きき|くく|けけ|ここ|
 |さささ|しし|すすす|せせせ|そそそ|
+
+![H3ロケット](https://www.jaxa.jp/projects/rockets/h3/images/h3_main_001.jpg)
